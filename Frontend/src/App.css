@@ -1,0 +1,11 @@
+body{
+  margin: 0;
+}
+
+.hero {
+  min-height: 100vh;
+  background-image: url('../public/background.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
