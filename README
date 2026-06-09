@@ -1,0 +1,38 @@
+Project Title: File Sharing Platform
+
+Project Overview --------------------------------------------------------------------------
+The File Sharing Platform is a web-based application developed to enable users to transfer files from one device to another device through a website in a fast and secure manner. The platform allows users to upload and share files of up to 1 GB size without requiring physical storage devices like pen drives or hard disks.
+
+The main purpose of this project is to provide a simple, efficient, and user-friendly solution for file transfer across different devices over the internet. Users can upload files on one device and access or download them on another device using a generated sharing link or unique access method.
+
+
+Working of the System ----------------------------------------------------------------------
+
+The system works in the following steps:
+
+File Upload
+The sender uploads a file to the platform through the website.
+Storage & Processing
+The file is temporarily stored on the server.
+Link Generation / Access Method
+A unique sharing link or access mechanism is generated.
+File Sharing
+The sender shares the link with another device/user.
+File Download
+The receiver opens the website and downloads the file securely.
+
+
+Technologies Used (Edit based on what you actually used) -----------------------------------
+
+Frontend
+HTML
+CSS
+JavaScript
+React.js
+
+Backend
+Node.js
+Express.js
+
+Database
+MongoDB
