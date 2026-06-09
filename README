@@ -1,7 +1,7 @@
 Project Title: File Sharing Platform
 
 Project Overview --------------------------------------------------------------------------
-The File Sharing Platform is a web-based application developed to enable users to transfer files from one device to another device through a website in a fast and secure manner. The platform allows users to upload and share files of up to 1 GB size without requiring physical storage devices like pen drives or hard disks.
+The File Sharing Platform is a web-based application developed to enable users to transfer files from one device to another device through a website in a fast and secure manner. The platform allows users to upload and share files of up to 500 GB size without requiring physical storage devices like pen drives or hard disks.
 
 The main purpose of this project is to provide a simple, efficient, and user-friendly solution for file transfer across different devices over the internet. Users can upload files on one device and access or download them on another device using a generated sharing link or unique access method.
 
