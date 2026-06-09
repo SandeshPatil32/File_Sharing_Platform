@@ -28,4 +28,4 @@ build/
 *.sw?
 
 # environment variables
-.env
+backend/.env
