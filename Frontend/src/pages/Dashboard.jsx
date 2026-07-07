@@ -70,12 +70,6 @@ export default function Dashboard() {
       setCode("");
     } catch (error) {
       console.log("Error found", error);
-/* 
-      if (error.response?.status === 403) {
-        navigate("/Pricing");
-
-        return;
-      } */
 
      if (error.response?.status === 403) {
        const errorType = error.response.data.type;

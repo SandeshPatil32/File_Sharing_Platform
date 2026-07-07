@@ -32,12 +32,9 @@ export default function Log() {
         },
       );
 
-      console.log("Login success", response.data);
 
-      // STORE TOKEN
       localStorage.setItem("token", response.data.token);
 
-      // STORE USER
       localStorage.setItem("user", JSON.stringify(response.data));
 
       // CLEAR INPUTS
